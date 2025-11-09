@@ -5,7 +5,7 @@ import requests
 import time
 
 st.set_page_config(page_title="Bike Performance Dashboard", page_icon="🏍️", layout="wide")
-st.title("🏍️ Bike Rider Behavior Classification (Software-Only Demo)")
+st.title("🏍️ Bike Rider Behavior Classification")
 
 api_url = "http://127.0.0.1:8000/predict"
 placeholder = st.empty()
