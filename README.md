@@ -1,4 +1,7 @@
-🏍️ Bike Performance Classification Based on Rider Behavior /br
+🏍️ Bike Performance Classification Based on Rider Behavior
+
+
+
 📘 Project Overview
 
 This project aims to classify bike performance and rider behavior using Machine Learning techniques.
@@ -70,4 +73,5 @@ Aggressive riders → High acceleration variance & frequent braking.
 Smooth riders → Consistent speed, low jerk values.
 
 Risky riders → Extreme tilt angles and high-speed fluctuations.
+
 
